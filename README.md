@@ -1,5 +1,5 @@
 # Giro413-Excel-reader
-Processing application for reading team scores from an Excel sheet, and playing the winning teams song.
+Processing application for reading team scores from an Excel sheet (must be in .xls-format and not .xlsx), and playing the winning teams song.
 
 - *For source code:* download data, Giro143_excel_reader and waveform.pde and open in Processing 4.x
 - *For exported app (ready to use):* download application.windows folder
