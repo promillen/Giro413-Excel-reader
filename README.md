@@ -12,3 +12,10 @@ Processing application for reading team scores from an Excel sheet (must be in .
    - The number of entries in the Excel sheet must match the number of set entries, and the corrensponding cell must contain a number
 3. Set whether or not there should be an alarm with a fixed time interval 
 4. If alarm is enabled, select time interval for the alarm 
+5. If happy with setup, hit enter to start application.
+
+## Use
+The program will read the score from the Excel sheet Pointscore.xls every second. If a new team is in lead, it will play the teams corresponding song.
+It's important to remember to save the Excel sheet every time its updated, or else nothing will happen.
+
+If alarm is enabled, a second window will show up after setup with a timer. When the timer hits 0, an alarm will play for approximately 30 seconds, after which the program will continue and the timer will restart.
