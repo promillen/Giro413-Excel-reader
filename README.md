@@ -2,7 +2,7 @@
 Processing application for reading team scores from an Excel sheet, and playing the winning teams song.
 
 - *For source code:* download data, Giro143_excel_reader and waveform.pde and open in Processing 4.x
-- *For exported app (ready to use):* download application.windows
+- *For exported app (ready to use):* download application.windows folder
 
 ## Setup
 1. First set the number of teams between 2-99.
